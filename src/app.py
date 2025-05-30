@@ -21,7 +21,7 @@ df['Cluster'] = kmeans.fit_predict(df_scaled)
 st.title("Market  Segmentation using K-Means")
 st.subheader("👥 Group Members")
 st.markdown("""
-- **Dhanashree Redekar** | 🆔 CAN ID: `CAN_33327696`  
+- **Karan** | 🆔 CAN ID: `CAN_33327696`  
 - **Yash Bhosale** | 🆔 CAN ID: `CAN_33326816`  
 - **Saeem M Desai** | 🆔 CAN ID: `CAN_33302689`  
 - **MD Furkhan** | 🆔 CAN ID: `CAN_34003833`
